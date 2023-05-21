@@ -86,8 +86,23 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateek043&show_icons=true&theme=radical)
+
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Prateek043&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek043&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
+<div class="footer" align="center" style="margin:15px;">
+    <a href="https://leetcode.com/avenger04/" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="Leetcode" width="40px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/prateek-kumar%F0%9F%8C%9F-286a07a3/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://cdn.iconscout.com/icon/free/png-512/free-logo-1889510-1597570.png?f=avif&w=256" alt="LinkedIn" width="40px"/>
+    </a>
+    <a href="mailto:chaudharyprateek1999@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
 </div>
+
